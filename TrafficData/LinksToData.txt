@@ -1,0 +1,13 @@
+Github link
+https://github.com/awesomedata/apd-core/blob/master/core/Transportation/U.S.-National-Highway-Traffic-Safety-Administation-Fatalities-since-1975.yml
+
+ftp site where the data is stored.
+ftp://nhtsa.gov/FARS/
+
+National Conference of State Legislatures (NCSL)
+Cell phone useage by state. (scrape)
+https://www.ncsl.org/research/transportation/cellular-phone-use-and-texting-while-driving-laws.aspx
+
+
+Github
+https://github.com/Gary-Schulke/Project3Startup.git
