@@ -1,4 +1,4 @@
-Github link
+Github link to data
 https://github.com/awesomedata/apd-core/blob/master/core/Transportation/U.S.-National-Highway-Traffic-Safety-Administation-Fatalities-since-1975.yml
 
 ftp site where the data is stored.
@@ -11,3 +11,12 @@ https://www.ncsl.org/research/transportation/cellular-phone-use-and-texting-whil
 
 Github
 https://github.com/Gary-Schulke/Project3Startup.git
+
+Texting while driving years.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4001667/
+
+GSA City Codes
+https://www.gsa.gov/reference/geographic-locator-codes/glcs-for-the-us-and-us-territories
+
+aws postgress connection.
+mypostgresdb.chhshux6ymmb.us-west-2.rds.amazonaws.com
