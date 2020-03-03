@@ -8,7 +8,7 @@ Gary Schulke, James Bruhns
 
 Project Report
 
-Distracted Driving
+Automotive Fatalities and Analysis
 
 March 2, 2020
 
