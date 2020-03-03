@@ -102,7 +102,7 @@ National Center for Biotechnology Information
 
 ## Submitted Files
 
-Final Workbook.twbx  Tableau Workbook, charts and stories used to develop the project and show results.
+Final_Workbook.twbx  Tableau Workbook, charts and stories used to develop the project and show results. Tableau Desktop and Tableau online were used.
 
 HighwaySafetyMunging.ipynb – The development version of the Jupyter Notebook for munging the NHTSA FARS csv data.
 
